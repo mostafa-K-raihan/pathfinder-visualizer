@@ -1,0 +1,13 @@
+.Cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid red;
+
+  &--green {
+    background-color: green;
+  }
+
+  &--red {
+    background-color: red;
+  }
+}

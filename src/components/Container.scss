@@ -1,0 +1,8 @@
+.Container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
+  grid-gap: 0.2rem 0.2rem;
+  border: 1px solid red;
+  padding: 2rem;
+  width: 100%;
+}
